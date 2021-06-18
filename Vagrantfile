@@ -78,7 +78,7 @@ Vagrant.configure("2") do |config|
     echo " You can use alisas ic for ibmcloud command\n"
     echo " For the Kubernetes Dashboard use:"
     echo " kubectl proxy --address='0.0.0.0'\n"
-    echo " Then open a browser to: http://localhost:8001/ui"
+    echo " Then open a browser to: http://localhost:8001/ui\n"
     echo "************************************\n"
   SHELL
 
